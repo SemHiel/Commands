@@ -1,0 +1,12 @@
+name: Commands
+version: ${project.version}
+main: me.sequos.commands.Commands
+authors: [ Sequos ]
+description: Commands Part two
+commands:
+  god:
+    description: Makes you god
+    aliases: [invincible]
+  feed:
+    description: Feeds you
+    aliases: [food]
